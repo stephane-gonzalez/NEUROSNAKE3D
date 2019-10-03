@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NeuralNet hLayers="2" hNodes="18" iNodes="3" oNodes="6">
+<Snake gen="1" lifeLeft="241" lifeTime="38" score="2" sysTime="1.56832209E12">
+<Brain>
+<Layer cols="4" no="0" rows="18">
+<Weight i="0" j="0">
+-0.20062393</Weight>
+<Weight i="0" j="1">
+0.77140784</Weight>
+<Weight i="0" j="2">
+1.9376316</Weight>
+<Weight i="0" j="3">
+0.3599031</Weight>
+<Weight i="1" j="0">
+1.880728</Weight>
+<Weight i="1" j="1">
+-0.7008756</Weight>
+<Weight i="1" j="2">
+-0.8606319</Weight>
+<Weight i="1" j="3">
+0.95560765</Weight>
+<Weight i="2" j="0">
+1.1398792</Weight>
+<Weight i="2" j="1">
+1.6433451</Weight>
+<Weight i="2" j="2">
+1.3133919</Weight>
+<Weight i="2" j="3">
+0.65125906</Weight>
+<Weight i="3" j="0">
+1.1031642</Weight>
+<Weight i="3" j="1">
+-0.17104667</Weight>
+<Weight i="3" j="2">
+-0.12063599</Weight>
+<Weight i="3" j="3">
+1.9063549</Weight>
+<Weight i="4" j="0">
+0.8832445</Weight>
+<Weight i="4" j="1">
+-0.077148974</Weight>
+<Weight i="4" j="2">
+1.7055902</Weight>
+<Weight i="4" j="3">
+0.04626572</Weight>
+<Weight i="5" j="0">
+0.645453</Weight>
+<Weight i="5" j="1">
+0.8816937</Weight>
+<Weight i="5" j="2">
+-0.026588798</Weight>
+<Weight i="5" j="3">
+-0.25000483</Weight>
+<Weight i="6" j="0">
+-0.32463586</Weight>
+<Weight i="6" j="1">
+0.88207674</Weight>
+<Weight i="6" j="2">
+-0.26957744</Weight>
+<Weight i="6" j="3">
+1.4012303</Weight>
+<Weight i="7" j="0">
+-0.21489328</Weight>
+<Weight i="7" j="1">
+1.2696614</Weight>
+<Weight i="7" j="2">
+1.5863271</Weight>
+<Weight i="7" j="3">
+1.1666036</Weight>
+<Weight i="8" j="0">
+1.7806904</Weight>
+<Weight i="8" j="1">
+1.7322619</Weight>
+<Weight i="8" j="2">
+-0.37734538</Weight>
+<Weight i="8" j="3">
+-0.08524406</Weight>
+<Weight i="9" j="0">
+-0.6686608</Weight>
+<Weight i="9" j="1">
+0.6962781</Weight>
+<Weight i="9" j="2">
+0.84374785</Weight>
+<Weight i="9" j="3">
+0.12752485</Weight>
+<Weight i="10" j="0">
+0.52590406</Weight>
+<Weight i="10" j="1">
+-0.59655946</Weight>
+<Weight i="10" j="2">
+0.4703722</Weight>
+<Weight i="10" j="3">
+1.4066105</Weight>
+<Weight i="11" j="0">
+-0.6792604</Weight>
+<Weight i="11" j="1">
+1.0374777</Weight>
+<Weight i="11" j="2">
+1.7885323</Weight>
+<Weight i="11" j="3">
+-0.44720852</Weight>
+<Weight i="12" j="0">
+1.4745982</Weight>
+<Weight i="12" j="1">
+1.709923</Weight>
+<Weight i="12" j="2">
+0.7581904</Weight>
+<Weight i="12" j="3">
+1.9998751</Weight>
+<Weight i="13" j="0">
+-0.7502604</Weight>
+<Weight i="13" j="1">
+1.6473808</Weight>
+<Weight i="13" j="2">
+-0.8392132</Weight>
+<Weight i="13" j="3">
+-0.049378276</Weight>
+<Weight i="14" j="0">
+-0.20561123</Weight>
+<Weight i="14" j="1">
+0.8754839</Weight>
+<Weight i="14" j="2">
+-0.43672788</Weight>
+<Weight i="14" j="3">
+-0.63834095</Weight>
+<Weight i="15" j="0">
+1.9441819</Weight>
+<Weight i="15" j="1">
+-0.572936</Weight>
+<Weight i="15" j="2">
+-0.7254609</Weight>
+<Weight i="15" j="3">
+1.7842851</Weight>
+<Weight i="16" j="0">
+-0.8274696</Weight>
+<Weight i="16" j="1">
+1.6203465</Weight>
+<Weight i="16" j="2">
+1.701297</Weight>
+<Weight i="16" j="3">
+-0.65702593</Weight>
+<Weight i="17" j="0">
+0.7571788</Weight>
+<Weight i="17" j="1">
+-0.1368959</Weight>
+<Weight i="17" j="2">
+-0.82469976</Weight>
+<Weight i="17" j="3">
+1.9639688</Weight>
+</Layer>
+<Layer cols="19" no="1" rows="18">
+<Weight i="0" j="0">
+0.35047472</Weight>
+<Weight i="0" j="1">
+1.5887299</Weight>
+<Weight i="0" j="2">
+-0.6564296</Weight>
+<Weight i="0" j="3">
+-0.22093898</Weight>
+<Weight i="0" j="4">
+-0.83187914</Weight>
+<Weight i="0" j="5">
+-0.07679814</Weight>
+<Weight i="0" j="6">
+0.007704258</Weight>
+<Weight i="0" j="7">
+0.7537216</Weight>
+<Weight i="0" j="8">
+-0.7761797</Weight>
+<Weight i="0" j="9">
+-0.67173177</Weight>
+<Weight i="0" j="10">
+0.07027006</Weight>
+<Weight i="0" j="11">
+-0.5226056</Weight>
+<Weight i="0" j="12">
+-0.022565663</Weight>
+<Weight i="0" j="13">
+0.776788</Weight>
+<Weight i="0" j="14">
+1.3650026</Weight>
+<Weight i="0" j="15">
+0.6601422</Weight>
+<Weight i="0" j="16">
+0.42896295</Weight>
+<Weight i="0" j="17">
+1.7410827</Weight>
+<Weight i="0" j="18">
+-0.76267654</Weight>
+<Weight i="1" j="0">
+-0.9611482</Weight>
+<Weight i="1" j="1">
+0.30484426</Weight>
+<Weight i="1" j="2">
+0.94099593</Weight>
+<Weight i="1" j="3">
+1.2303262</Weight>
+<Weight i="1" j="4">
+1.5010076</Weight>
+<Weight i="1" j="5">
+1.0485449</Weight>
+<Weight i="1" j="6">
+0.88054323</Weight>
+<Weight i="1" j="7">
+0.6680968</Weight>
+<Weight i="1" j="8">
+0.13679743</Weight>
+<Weight i="1" j="9">
+0.7836623</Weight>
+<Weight i="1" j="10">
+0.5473223</Weight>
+<Weight i="1" j="11">
+1.1769652</Weight>
+<Weight i="1" j="12">
+1.2044401</Weight>
+<Weight i="1" j="13">
+-0.86389023</Weight>
+<Weight i="1" j="14">
+0.24742389</Weight>
+<Weight i="1" j="15">
+0.8429918</Weight>
+<Weight i="1" j="16">
+-0.45817286</Weight>
+<Weight i="1" j="17">
+-0.71659654</Weight>
+<Weight i="1" j="18">
+-0.28107464</Weight>
+<Weight i="2" j="0">
+1.1655715</Weight>
+<Weight i="2" j="1">
+0.577332</Weight>
+<Weight i="2" j="2">
+0.36555302</Weight>
+<Weight i="2" j="3">
+1.4016175</Weight>
+<Weight i="2" j="4">
+0.3894956</Weight>
+<Weight i="2" j="5">
+-0.15689087</Weight>
+<Weight i="2" j="6">
+-0.5946</Weight>
+<Weight i="2" j="7">
+-0.5751079</Weight>
+<Weight i="2" j="8">
+-0.44240344</Weight>
+<Weight i="2" j="9">
+1.186506</Weight>
+<Weight i="2" j="10">
+-0.89416057</Weight>
+<Weight i="2" j="11">
+-0.25662792</Weight>
+<Weight i="2" j="12">
+-0.26161146</Weight>
+<Weight i="2" j="13">
+0.93133163</Weight>
+<Weight i="2" j="14">
+-0.7486425</Weight>
+<Weight i="2" j="15">
+1.8478527</Weight>
+<Weight i="2" j="16">
+0.022643805</Weight>
+<Weight i="2" j="17">
+-0.7939695</Weight>
+<Weight i="2" j="18">
+-0.76107454</Weight>
+<Weight i="3" j="0">
+-0.8480906</Weight>
+<Weight i="3" j="1">
+1.4101827</Weight>
+<Weight i="3" j="2">
+-0.04862207</Weight>
+<Weight i="3" j="3">
+1.0466604</Weight>
+<Weight i="3" j="4">
+-0.5109938</Weight>
+<Weight i="3" j="5">
+-0.262461</Weight>
+<Weight i="3" j="6">
+0.6175089</Weight>
+<Weight i="3" j="7">
+0.47625756</Weight>
+<Weight i="3" j="8">
+1.4127014</Weight>
+<Weight i="3" j="9">
+-0.8532109</Weight>
+<Weight i="3" j="10">
+1.0355339</Weight>
+<Weight i="3" j="11">
+0.49758816</Weight>
+<Weight i="3" j="12">
+1.6281533</Weight>
+<Weight i="3" j="13">
+1.7225647</Weight>
+<Weight i="3" j="14">
+1.7761598</Weight>
+<Weight i="3" j="15">
+-0.76234716</Weight>
+<Weight i="3" j="16">
+-0.77167857</Weight>
+<Weight i="3" j="17">
+-0.65226877</Weight>
+<Weight i="3" j="18">
+0.7929094</Weight>
+<Weight i="4" j="0">
+1.4828687</Weight>
+<Weight i="4" j="1">
+-0.29418617</Weight>
+<Weight i="4" j="2">
+1.238601</Weight>
+<Weight i="4" j="3">
+1.6442411</Weight>
+<Weight i="4" j="4">
+-0.6803703</Weight>
+<Weight i="4" j="5">
+1.4375417</Weight>
+<Weight i="4" j="6">
+-0.96533513</Weight>
+<Weight i="4" j="7">
+0.11136842</Weight>
+<Weight i="4" j="8">
+-0.42708337</Weight>
+<Weight i="4" j="9">
+-0.7706856</Weight>
+<Weight i="4" j="10">
+-0.76552504</Weight>
+<Weight i="4" j="11">
+1.3704834</Weight>
+<Weight i="4" j="12">
+-0.2471177</Weight>
+<Weight i="4" j="13">
+-0.076793134</Weight>
+<Weight i="4" j="14">
+0.097221136</Weight>
+<Weight i="4" j="15">
+1.5622954</Weight>
+<Weight i="4" j="16">
+0.6008028</Weight>
+<Weight i="4" j="17">
+1.9433393</Weight>
+<Weight i="4" j="18">
+1.8761268</Weight>
+<Weight i="5" j="0">
+-0.76073086</Weight>
+<Weight i="5" j="1">
+1.238472</Weight>
+<Weight i="5" j="2">
+0.3516972</Weight>
+<Weight i="5" j="3">
+0.7360611</Weight>
+<Weight i="5" j="4">
+1.7234733</Weight>
+<Weight i="5" j="5">
+0.64516354</Weight>
+<Weight i="5" j="6">
+1.290755</Weight>
+<Weight i="5" j="7">
+0.7526866</Weight>
+<Weight i="5" j="8">
+1.434762</Weight>
+<Weight i="5" j="9">
+0.5836148</Weight>
+<Weight i="5" j="10">
+1.3525686</Weight>
+<Weight i="5" j="11">
+1.5189276</Weight>
+<Weight i="5" j="12">
+-0.08287817</Weight>
+<Weight i="5" j="13">
+1.9509614</Weight>
+<Weight i="5" j="14">
+0.014157891</Weight>
+<Weight i="5" j="15">
+0.7188258</Weight>
+<Weight i="5" j="16">
+-0.581562</Weight>
+<Weight i="5" j="17">
+1.8865309</Weight>
+<Weight i="5" j="18">
+0.58291984</Weight>
+<Weight i="6" j="0">
+1.0031164</Weight>
+<Weight i="6" j="1">
+0.47403932</Weight>
+<Weight i="6" j="2">
+1.930764</Weight>
+<Weight i="6" j="3">
+1.7061839</Weight>
+<Weight i="6" j="4">
+0.14627218</Weight>
+<Weight i="6" j="5">
+0.5219908</Weight>
+<Weight i="6" j="6">
+1.560396</Weight>
+<Weight i="6" j="7">
+1.1045034</Weight>
+<Weight i="6" j="8">
+-0.11173427</Weight>
+<Weight i="6" j="9">
+0.018806338</Weight>
+<Weight i="6" j="10">
+-0.7248463</Weight>
+<Weight i="6" j="11">
+1.5141373</Weight>
+<Weight i="6" j="12">
+-0.9612224</Weight>
+<Weight i="6" j="13">
+0.92990017</Weight>
+<Weight i="6" j="14">
+-0.43578285</Weight>
+<Weight i="6" j="15">
+1.5864012</Weight>
+<Weight i="6" j="16">
+1.0408974</Weight>
+<Weight i="6" j="17">
+1.6906824</Weight>
+<Weight i="6" j="18">
+-0.3375042</Weight>
+<Weight i="7" j="0">
+-0.7511668</Weight>
+<Weight i="7" j="1">
+-0.99153227</Weight>
+<Weight i="7" j="2">
+1.4921815</Weight>
+<Weight i="7" j="3">
+1.4390125</Weight>
+<Weight i="7" j="4">
+1.8166826</Weight>
+<Weight i="7" j="5">
+0.14104354</Weight>
+<Weight i="7" j="6">
+1.7702606</Weight>
+<Weight i="7" j="7">
+0.8259345</Weight>
+<Weight i="7" j="8">
+0.7289176</Weight>
+<Weight i="7" j="9">
+-0.028350294</Weight>
+<Weight i="7" j="10">
+0.94617975</Weight>
+<Weight i="7" j="11">
+0.46793914</Weight>
+<Weight i="7" j="12">
+-0.4766969</Weight>
+<Weight i="7" j="13">
+0.7338011</Weight>
+<Weight i="7" j="14">
+0.8478806</Weight>
+<Weight i="7" j="15">
+0.45504737</Weight>
+<Weight i="7" j="16">
+1.8912437</Weight>
+<Weight i="7" j="17">
+0.1764481</Weight>
+<Weight i="7" j="18">
+-0.22285926</Weight>
+<Weight i="8" j="0">
+0.7550391</Weight>
+<Weight i="8" j="1">
+1.9787793</Weight>
+<Weight i="8" j="2">
+0.033518314</Weight>
+<Weight i="8" j="3">
+1.9513168</Weight>
+<Weight i="8" j="4">
+-0.04076481</Weight>
+<Weight i="8" j="5">
+-0.3545003</Weight>
+<Weight i="8" j="6">
+-0.95182216</Weight>
+<Weight i="8" j="7">
+1.5050211</Weight>
+<Weight i="8" j="8">
+-0.105448246</Weight>
+<Weight i="8" j="9">
+-0.6662756</Weight>
+<Weight i="8" j="10">
+0.9649749</Weight>
+<Weight i="8" j="11">
+0.97161865</Weight>
+<Weight i="8" j="12">
+1.4849036</Weight>
+<Weight i="8" j="13">
+0.22529125</Weight>
+<Weight i="8" j="14">
+-0.24550194</Weight>
+<Weight i="8" j="15">
+1.0861788</Weight>
+<Weight i="8" j="16">
+0.7432332</Weight>
+<Weight i="8" j="17">
+1.1450992</Weight>
+<Weight i="8" j="18">
+-0.91139305</Weight>
+<Weight i="9" j="0">
+1.6842408</Weight>
+<Weight i="9" j="1">
+1.6643293</Weight>
+<Weight i="9" j="2">
+0.8266562</Weight>
+<Weight i="9" j="3">
+0.7552092</Weight>
+<Weight i="9" j="4">
+1.4209085</Weight>
+<Weight i="9" j="5">
+0.93937325</Weight>
+<Weight i="9" j="6">
+0.98970175</Weight>
+<Weight i="9" j="7">
+1.7880988</Weight>
+<Weight i="9" j="8">
+1.1960506</Weight>
+<Weight i="9" j="9">
+-0.26764</Weight>
+<Weight i="9" j="10">
+-0.19974345</Weight>
+<Weight i="9" j="11">
+0.8075819</Weight>
+<Weight i="9" j="12">
+1.716064</Weight>
+<Weight i="9" j="13">
+1.0764534</Weight>
+<Weight i="9" j="14">
+1.9726663</Weight>
+<Weight i="9" j="15">
+-0.040980816</Weight>
+<Weight i="9" j="16">
+3.5572052E-4</Weight>
+<Weight i="9" j="17">
+-0.22682267</Weight>
+<Weight i="9" j="18">
+1.74495</Weight>
+<Weight i="10" j="0">
+1.3573453</Weight>
+<Weight i="10" j="1">
+0.47232008</Weight>
+<Weight i="10" j="2">
+-0.34733808</Weight>
+<Weight i="10" j="3">
+0.39512062</Weight>
+<Weight i="10" j="4">
+1.1866775</Weight>
+<Weight i="10" j="5">
+0.43149674</Weight>
+<Weight i="10" j="6">
+1.7505767</Weight>
+<Weight i="10" j="7">
+-0.41682124</Weight>
+<Weight i="10" j="8">
+-0.5986201</Weight>
+<Weight i="10" j="9">
+-0.17719018</Weight>
+<Weight i="10" j="10">
+0.89325154</Weight>
+<Weight i="10" j="11">
+0.3358643</Weight>
+<Weight i="10" j="12">
+-0.043551087</Weight>
+<Weight i="10" j="13">
+1.955076</Weight>
+<Weight i="10" j="14">
+0.5756508</Weight>
+<Weight i="10" j="15">
+1.0800211</Weight>
+<Weight i="10" j="16">
+0.43626034</Weight>
+<Weight i="10" j="17">
+0.5517144</Weight>
+<Weight i="10" j="18">
+-0.41821492</Weight>
+<Weight i="11" j="0">
+0.96251464</Weight>
+<Weight i="11" j="1">
+-0.8070299</Weight>
+<Weight i="11" j="2">
+0.47295868</Weight>
+<Weight i="11" j="3">
+-0.38335246</Weight>
+<Weight i="11" j="4">
+0.98205185</Weight>
+<Weight i="11" j="5">
+-0.8883754</Weight>
+<Weight i="11" j="6">
+1.7930174</Weight>
+<Weight i="11" j="7">
+-0.53318924</Weight>
+<Weight i="11" j="8">
+-0.4120875</Weight>
+<Weight i="11" j="9">
+0.13323927</Weight>
+<Weight i="11" j="10">
+0.8494916</Weight>
+<Weight i="11" j="11">
+-0.6833754</Weight>
+<Weight i="11" j="12">
+-0.26432854</Weight>
+<Weight i="11" j="13">
+1.5121129</Weight>
+<Weight i="11" j="14">
+1.7702086</Weight>
+<Weight i="11" j="15">
+1.0327377</Weight>
+<Weight i="11" j="16">
+-0.7141856</Weight>
+<Weight i="11" j="17">
+1.4734449</Weight>
+<Weight i="11" j="18">
+0.16225481</Weight>
+<Weight i="12" j="0">
+0.1700871</Weight>
+<Weight i="12" j="1">
+0.15430653</Weight>
+<Weight i="12" j="2">
+1.5160866</Weight>
+<Weight i="12" j="3">
+-0.4934187</Weight>
+<Weight i="12" j="4">
+1.5261245</Weight>
+<Weight i="12" j="5">
+0.7425529</Weight>
+<Weight i="12" j="6">
+0.6098418</Weight>
+<Weight i="12" j="7">
+0.30111122</Weight>
+<Weight i="12" j="8">
+1.3296211</Weight>
+<Weight i="12" j="9">
+-0.5886151</Weight>
+<Weight i="12" j="10">
+1.6812243</Weight>
+<Weight i="12" j="11">
+-0.8722253</Weight>
+<Weight i="12" j="12">
+-0.30720633</Weight>
+<Weight i="12" j="13">
+1.1824422</Weight>
+<Weight i="12" j="14">
+0.79799736</Weight>
+<Weight i="12" j="15">
+0.003929019</Weight>
+<Weight i="12" j="16">
+0.052089453</Weight>
+<Weight i="12" j="17">
+1.562556</Weight>
+<Weight i="12" j="18">
+-0.11886537</Weight>
+<Weight i="13" j="0">
+3.5774708E-4</Weight>
+<Weight i="13" j="1">
+0.53383327</Weight>
+<Weight i="13" j="2">
+-0.44297904</Weight>
+<Weight i="13" j="3">
+-0.0923596</Weight>
+<Weight i="13" j="4">
+0.45854986</Weight>
+<Weight i="13" j="5">
+0.96120715</Weight>
+<Weight i="13" j="6">
+1.7102668</Weight>
+<Weight i="13" j="7">
+0.85105217</Weight>
+<Weight i="13" j="8">
+-0.07193655</Weight>
+<Weight i="13" j="9">
+0.7900884</Weight>
+<Weight i="13" j="10">
+1.795506</Weight>
+<Weight i="13" j="11">
+-0.5541552</Weight>
+<Weight i="13" j="12">
+0.66006994</Weight>
+<Weight i="13" j="13">
+1.3777034</Weight>
+<Weight i="13" j="14">
+0.05568075</Weight>
+<Weight i="13" j="15">
+1.0157228</Weight>
+<Weight i="13" j="16">
+0.7365104</Weight>
+<Weight i="13" j="17">
+-0.13889396</Weight>
+<Weight i="13" j="18">
+0.3188076</Weight>
+<Weight i="14" j="0">
+0.869666</Weight>
+<Weight i="14" j="1">
+-0.075009644</Weight>
+<Weight i="14" j="2">
+-0.40037286</Weight>
+<Weight i="14" j="3">
+1.6621413</Weight>
+<Weight i="14" j="4">
+-0.59939027</Weight>
+<Weight i="14" j="5">
+1.8346448</Weight>
+<Weight i="14" j="6">
+1.7042861</Weight>
+<Weight i="14" j="7">
+0.07806444</Weight>
+<Weight i="14" j="8">
+1.4714179</Weight>
+<Weight i="14" j="9">
+1.0664401</Weight>
+<Weight i="14" j="10">
+-0.6032001</Weight>
+<Weight i="14" j="11">
+0.7025404</Weight>
+<Weight i="14" j="12">
+1.3413348</Weight>
+<Weight i="14" j="13">
+1.4550645</Weight>
+<Weight i="14" j="14">
+0.5526662</Weight>
+<Weight i="14" j="15">
+0.11806321</Weight>
+<Weight i="14" j="16">
+-0.40393895</Weight>
+<Weight i="14" j="17">
+-0.16898459</Weight>
+<Weight i="14" j="18">
+1.251296</Weight>
+<Weight i="15" j="0">
+-0.9213358</Weight>
+<Weight i="15" j="1">
+0.190467</Weight>
+<Weight i="15" j="2">
+1.7540691</Weight>
+<Weight i="15" j="3">
+0.7949159</Weight>
+<Weight i="15" j="4">
+-0.049512923</Weight>
+<Weight i="15" j="5">
+-0.13825631</Weight>
+<Weight i="15" j="6">
+0.41343284</Weight>
+<Weight i="15" j="7">
+-0.067997634</Weight>
+<Weight i="15" j="8">
+1.6116216</Weight>
+<Weight i="15" j="9">
+1.4412055</Weight>
+<Weight i="15" j="10">
+1.1664846</Weight>
+<Weight i="15" j="11">
+0.14643192</Weight>
+<Weight i="15" j="12">
+0.21903372</Weight>
+<Weight i="15" j="13">
+1.695765</Weight>
+<Weight i="15" j="14">
+1.8713019</Weight>
+<Weight i="15" j="15">
+1.7104261</Weight>
+<Weight i="15" j="16">
+0.70848155</Weight>
+<Weight i="15" j="17">
+-0.31796896</Weight>
+<Weight i="15" j="18">
+1.6336668</Weight>
+<Weight i="16" j="0">
+0.5404638</Weight>
+<Weight i="16" j="1">
+0.28977156</Weight>
+<Weight i="16" j="2">
+-0.78827894</Weight>
+<Weight i="16" j="3">
+-0.021038413</Weight>
+<Weight i="16" j="4">
+0.35878325</Weight>
+<Weight i="16" j="5">
+-0.16036612</Weight>
+<Weight i="16" j="6">
+-0.7803868</Weight>
+<Weight i="16" j="7">
+1.8684828</Weight>
+<Weight i="16" j="8">
+0.83030725</Weight>
+<Weight i="16" j="9">
+-0.25654334</Weight>
+<Weight i="16" j="10">
+0.5888603</Weight>
+<Weight i="16" j="11">
+1.8013644</Weight>
+<Weight i="16" j="12">
+1.080028</Weight>
+<Weight i="16" j="13">
+0.8938272</Weight>
+<Weight i="16" j="14">
+-0.6677476</Weight>
+<Weight i="16" j="15">
+0.99345684</Weight>
+<Weight i="16" j="16">
+0.63441205</Weight>
+<Weight i="16" j="17">
+1.6634405</Weight>
+<Weight i="16" j="18">
+0.12258208</Weight>
+<Weight i="17" j="0">
+1.8851969</Weight>
+<Weight i="17" j="1">
+1.4553144</Weight>
+<Weight i="17" j="2">
+1.2030873</Weight>
+<Weight i="17" j="3">
+-0.8022445</Weight>
+<Weight i="17" j="4">
+1.8850555</Weight>
+<Weight i="17" j="5">
+1.4255433</Weight>
+<Weight i="17" j="6">
+1.176372</Weight>
+<Weight i="17" j="7">
+1.4500499</Weight>
+<Weight i="17" j="8">
+1.7582545</Weight>
+<Weight i="17" j="9">
+1.6990829</Weight>
+<Weight i="17" j="10">
+0.20724535</Weight>
+<Weight i="17" j="11">
+-0.76478994</Weight>
+<Weight i="17" j="12">
+0.86792636</Weight>
+<Weight i="17" j="13">
+0.242298</Weight>
+<Weight i="17" j="14">
+0.33261704</Weight>
+<Weight i="17" j="15">
+1.0896668</Weight>
+<Weight i="17" j="16">
+1.2930102</Weight>
+<Weight i="17" j="17">
+1.1481326</Weight>
+<Weight i="17" j="18">
+1.4822409</Weight>
+</Layer>
+<Layer cols="19" no="2" rows="18">
+<Weight i="0" j="0">
+-0.90192914</Weight>
+<Weight i="0" j="1">
+1.0843449</Weight>
+<Weight i="0" j="2">
+0.80906665</Weight>
+<Weight i="0" j="3">
+-0.91564685</Weight>
+<Weight i="0" j="4">
+1.7622223</Weight>
+<Weight i="0" j="5">
+0.59608316</Weight>
+<Weight i="0" j="6">
+-0.6480965</Weight>
+<Weight i="0" j="7">
+-0.7994042</Weight>
+<Weight i="0" j="8">
+-0.07530218</Weight>
+<Weight i="0" j="9">
+-0.36229086</Weight>
+<Weight i="0" j="10">
+-0.810753</Weight>
+<Weight i="0" j="11">
+1.2894955</Weight>
+<Weight i="0" j="12">
+0.62275267</Weight>
+<Weight i="0" j="13">
+1.5910134</Weight>
+<Weight i="0" j="14">
+-0.98506296</Weight>
+<Weight i="0" j="15">
+0.9014132</Weight>
+<Weight i="0" j="16">
+1.8359754</Weight>
+<Weight i="0" j="17">
+0.33229637</Weight>
+<Weight i="0" j="18">
+0.1753565</Weight>
+<Weight i="1" j="0">
+0.9304354</Weight>
+<Weight i="1" j="1">
+0.8246794</Weight>
+<Weight i="1" j="2">
+1.9683008</Weight>
+<Weight i="1" j="3">
+-0.35182613</Weight>
+<Weight i="1" j="4">
+-0.6079592</Weight>
+<Weight i="1" j="5">
+1.4159126</Weight>
+<Weight i="1" j="6">
+1.9363792</Weight>
+<Weight i="1" j="7">
+1.7250915</Weight>
+<Weight i="1" j="8">
+1.5047452</Weight>
+<Weight i="1" j="9">
+1.7701781</Weight>
+<Weight i="1" j="10">
+1.1614256</Weight>
+<Weight i="1" j="11">
+0.3468156</Weight>
+<Weight i="1" j="12">
+-0.54143417</Weight>
+<Weight i="1" j="13">
+-0.6408817</Weight>
+<Weight i="1" j="14">
+-0.6742439</Weight>
+<Weight i="1" j="15">
+0.1603725</Weight>
+<Weight i="1" j="16">
+-0.3422047</Weight>
+<Weight i="1" j="17">
+-0.34043837</Weight>
+<Weight i="1" j="18">
+-0.7925029</Weight>
+<Weight i="2" j="0">
+-0.60089374</Weight>
+<Weight i="2" j="1">
+1.1633778</Weight>
+<Weight i="2" j="2">
+1.0399146</Weight>
+<Weight i="2" j="3">
+1.6627831</Weight>
+<Weight i="2" j="4">
+-0.40742475</Weight>
+<Weight i="2" j="5">
+0.78692317</Weight>
+<Weight i="2" j="6">
+1.9010537</Weight>
+<Weight i="2" j="7">
+-0.66236603</Weight>
+<Weight i="2" j="8">
+1.781517</Weight>
+<Weight i="2" j="9">
+1.0969949</Weight>
+<Weight i="2" j="10">
+0.36732984</Weight>
+<Weight i="2" j="11">
+-0.016240835</Weight>
+<Weight i="2" j="12">
+-0.24509495</Weight>
+<Weight i="2" j="13">
+0.673877</Weight>
+<Weight i="2" j="14">
+0.7969494</Weight>
+<Weight i="2" j="15">
+0.1250683</Weight>
+<Weight i="2" j="16">
+1.2778506</Weight>
+<Weight i="2" j="17">
+-0.29362237</Weight>
+<Weight i="2" j="18">
+0.5411241</Weight>
+<Weight i="3" j="0">
+-0.031906903</Weight>
+<Weight i="3" j="1">
+1.1194558</Weight>
+<Weight i="3" j="2">
+1.5086432</Weight>
+<Weight i="3" j="3">
+0.7841821</Weight>
+<Weight i="3" j="4">
+1.2674804</Weight>
+<Weight i="3" j="5">
+0.15249658</Weight>
+<Weight i="3" j="6">
+-0.32286167</Weight>
+<Weight i="3" j="7">
+1.9610615</Weight>
+<Weight i="3" j="8">
+0.5592003</Weight>
+<Weight i="3" j="9">
+1.2614648</Weight>
+<Weight i="3" j="10">
+-0.73462206</Weight>
+<Weight i="3" j="11">
+1.4291575</Weight>
+<Weight i="3" j="12">
+1.3249519</Weight>
+<Weight i="3" j="13">
+0.82150865</Weight>
+<Weight i="3" j="14">
+-0.50978357</Weight>
+<Weight i="3" j="15">
+0.8985908</Weight>
+<Weight i="3" j="16">
+1.5198069</Weight>
+<Weight i="3" j="17">
+0.7898965</Weight>
+<Weight i="3" j="18">
+-0.83941865</Weight>
+<Weight i="4" j="0">
+1.3764253</Weight>
+<Weight i="4" j="1">
+0.6242566</Weight>
+<Weight i="4" j="2">
+1.4929671</Weight>
+<Weight i="4" j="3">
+1.3844438</Weight>
+<Weight i="4" j="4">
+1.5655072</Weight>
+<Weight i="4" j="5">
+1.4672151</Weight>
+<Weight i="4" j="6">
+0.98180723</Weight>
+<Weight i="4" j="7">
+0.7344247</Weight>
+<Weight i="4" j="8">
+0.62924993</Weight>
+<Weight i="4" j="9">
+0.09300828</Weight>
+<Weight i="4" j="10">
+1.7936473</Weight>
+<Weight i="4" j="11">
+1.6209552</Weight>
+<Weight i="4" j="12">
+-0.12377739</Weight>
+<Weight i="4" j="13">
+0.389508</Weight>
+<Weight i="4" j="14">
+1.1455145</Weight>
+<Weight i="4" j="15">
+-0.58806115</Weight>
+<Weight i="4" j="16">
+-0.57869095</Weight>
+<Weight i="4" j="17">
+-0.96853465</Weight>
+<Weight i="4" j="18">
+-0.7335041</Weight>
+<Weight i="5" j="0">
+1.2419076</Weight>
+<Weight i="5" j="1">
+-0.7610831</Weight>
+<Weight i="5" j="2">
+1.5026762</Weight>
+<Weight i="5" j="3">
+0.45729184</Weight>
+<Weight i="5" j="4">
+0.8702767</Weight>
+<Weight i="5" j="5">
+0.43206668</Weight>
+<Weight i="5" j="6">
+0.4726503</Weight>
+<Weight i="5" j="7">
+-0.41359955</Weight>
+<Weight i="5" j="8">
+-0.4777342</Weight>
+<Weight i="5" j="9">
+1.652437</Weight>
+<Weight i="5" j="10">
+1.6335196</Weight>
+<Weight i="5" j="11">
+0.3010162</Weight>
+<Weight i="5" j="12">
+1.4163833</Weight>
+<Weight i="5" j="13">
+-0.7004879</Weight>
+<Weight i="5" j="14">
+1.2774777</Weight>
+<Weight i="5" j="15">
+0.292122</Weight>
+<Weight i="5" j="16">
+0.993175</Weight>
+<Weight i="5" j="17">
+1.8323374</Weight>
+<Weight i="5" j="18">
+1.7466631</Weight>
+<Weight i="6" j="0">
+-0.61750895</Weight>
+<Weight i="6" j="1">
+1.6445997</Weight>
+<Weight i="6" j="2">
+-0.69749635</Weight>
+<Weight i="6" j="3">
+1.3541303</Weight>
+<Weight i="6" j="4">
+0.4406377</Weight>
+<Weight i="6" j="5">
+-0.41693783</Weight>
+<Weight i="6" j="6">
+1.8023372</Weight>
+<Weight i="6" j="7">
+0.1257335</Weight>
+<Weight i="6" j="8">
+1.3730903</Weight>
+<Weight i="6" j="9">
+-0.44859862</Weight>
+<Weight i="6" j="10">
+1.3192201</Weight>
+<Weight i="6" j="11">
+0.23567474</Weight>
+<Weight i="6" j="12">
+-0.91667557</Weight>
+<Weight i="6" j="13">
+1.4696803</Weight>
+<Weight i="6" j="14">
+0.7550726</Weight>
+<Weight i="6" j="15">
+-0.2133866</Weight>
+<Weight i="6" j="16">
+-0.73185617</Weight>
+<Weight i="6" j="17">
+1.1226125</Weight>
+<Weight i="6" j="18">
+-0.7934656</Weight>
+<Weight i="7" j="0">
+-0.6081359</Weight>
+<Weight i="7" j="1">
+1.4776931</Weight>
+<Weight i="7" j="2">
+1.9749064</Weight>
+<Weight i="7" j="3">
+1.8329494</Weight>
+<Weight i="7" j="4">
+0.2616279</Weight>
+<Weight i="7" j="5">
+1.634242</Weight>
+<Weight i="7" j="6">
+0.75553894</Weight>
+<Weight i="7" j="7">
+-0.57640857</Weight>
+<Weight i="7" j="8">
+0.88933265</Weight>
+<Weight i="7" j="9">
+-0.263842</Weight>
+<Weight i="7" j="10">
+0.19715905</Weight>
+<Weight i="7" j="11">
+0.36718225</Weight>
+<Weight i="7" j="12">
+1.9256239</Weight>
+<Weight i="7" j="13">
+0.64180267</Weight>
+<Weight i="7" j="14">
+-0.9348377</Weight>
+<Weight i="7" j="15">
+-0.9743606</Weight>
+<Weight i="7" j="16">
+0.0039383173</Weight>
+<Weight i="7" j="17">
+-0.11790067</Weight>
+<Weight i="7" j="18">
+1.4569902</Weight>
+<Weight i="8" j="0">
+0.34364247</Weight>
+<Weight i="8" j="1">
+0.8954034</Weight>
+<Weight i="8" j="2">
+0.6433283</Weight>
+<Weight i="8" j="3">
+-0.45792055</Weight>
+<Weight i="8" j="4">
+0.38983345</Weight>
+<Weight i="8" j="5">
+0.17935419</Weight>
+<Weight i="8" j="6">
+1.5958846</Weight>
+<Weight i="8" j="7">
+0.3763945</Weight>
+<Weight i="8" j="8">
+-0.6205028</Weight>
+<Weight i="8" j="9">
+-0.94381756</Weight>
+<Weight i="8" j="10">
+-0.4941377</Weight>
+<Weight i="8" j="11">
+-0.17795193</Weight>
+<Weight i="8" j="12">
+0.8648366</Weight>
+<Weight i="8" j="13">
+0.007498145</Weight>
+<Weight i="8" j="14">
+0.7642615</Weight>
+<Weight i="8" j="15">
+-0.12233758</Weight>
+<Weight i="8" j="16">
+-0.98502004</Weight>
+<Weight i="8" j="17">
+1.253654</Weight>
+<Weight i="8" j="18">
+1.7736502</Weight>
+<Weight i="9" j="0">
+1.0619421</Weight>
+<Weight i="9" j="1">
+0.7884679</Weight>
+<Weight i="9" j="2">
+0.24169147</Weight>
+<Weight i="9" j="3">
+1.4581041</Weight>
+<Weight i="9" j="4">
+1.518265</Weight>
+<Weight i="9" j="5">
+1.1601357</Weight>
+<Weight i="9" j="6">
+-0.5739279</Weight>
+<Weight i="9" j="7">
+-0.44961697</Weight>
+<Weight i="9" j="8">
+1.6059153</Weight>
+<Weight i="9" j="9">
+0.4113679</Weight>
+<Weight i="9" j="10">
+-0.48507595</Weight>
+<Weight i="9" j="11">
+1.2923808</Weight>
+<Weight i="9" j="12">
+-0.7039778</Weight>
+<Weight i="9" j="13">
+-0.87846106</Weight>
+<Weight i="9" j="14">
+0.7159014</Weight>
+<Weight i="9" j="15">
+-0.41776323</Weight>
+<Weight i="9" j="16">
+-0.65301317</Weight>
+<Weight i="9" j="17">
+1.6874182</Weight>
+<Weight i="9" j="18">
+-0.3160966</Weight>
+<Weight i="10" j="0">
+-0.21720964</Weight>
+<Weight i="10" j="1">
+-0.28887308</Weight>
+<Weight i="10" j="2">
+1.2750752</Weight>
+<Weight i="10" j="3">
+-0.7377638</Weight>
+<Weight i="10" j="4">
+1.744267</Weight>
+<Weight i="10" j="5">
+1.390804</Weight>
+<Weight i="10" j="6">
+-0.2125898</Weight>
+<Weight i="10" j="7">
+0.14678574</Weight>
+<Weight i="10" j="8">
+1.0211291</Weight>
+<Weight i="10" j="9">
+0.64696324</Weight>
+<Weight i="10" j="10">
+1.0773008</Weight>
+<Weight i="10" j="11">
+-0.95834905</Weight>
+<Weight i="10" j="12">
+0.9207747</Weight>
+<Weight i="10" j="13">
+-0.24632037</Weight>
+<Weight i="10" j="14">
+0.47318435</Weight>
+<Weight i="10" j="15">
+-0.6364954</Weight>
+<Weight i="10" j="16">
+0.23616004</Weight>
+<Weight i="10" j="17">
+0.45875835</Weight>
+<Weight i="10" j="18">
+0.23474526</Weight>
+<Weight i="11" j="0">
+-0.19018334</Weight>
+<Weight i="11" j="1">
+0.068430185</Weight>
+<Weight i="11" j="2">
+1.7922354</Weight>
+<Weight i="11" j="3">
+-0.6319487</Weight>
+<Weight i="11" j="4">
+1.2056737</Weight>
+<Weight i="11" j="5">
+1.231242</Weight>
+<Weight i="11" j="6">
+0.07291484</Weight>
+<Weight i="11" j="7">
+0.15818691</Weight>
+<Weight i="11" j="8">
+1.3693008</Weight>
+<Weight i="11" j="9">
+-0.46310258</Weight>
+<Weight i="11" j="10">
+1.6420393</Weight>
+<Weight i="11" j="11">
+1.5658259</Weight>
+<Weight i="11" j="12">
+-0.5021323</Weight>
+<Weight i="11" j="13">
+-0.40899312</Weight>
+<Weight i="11" j="14">
+1.8560874</Weight>
+<Weight i="11" j="15">
+0.76446533</Weight>
+<Weight i="11" j="16">
+1.0154936</Weight>
+<Weight i="11" j="17">
+-0.80469906</Weight>
+<Weight i="11" j="18">
+0.03631401</Weight>
+<Weight i="12" j="0">
+-0.4038363</Weight>
+<Weight i="12" j="1">
+0.65320635</Weight>
+<Weight i="12" j="2">
+1.8734336</Weight>
+<Weight i="12" j="3">
+-0.9132631</Weight>
+<Weight i="12" j="4">
+1.763387</Weight>
+<Weight i="12" j="5">
+0.6729907</Weight>
+<Weight i="12" j="6">
+-0.79498035</Weight>
+<Weight i="12" j="7">
+-0.45594305</Weight>
+<Weight i="12" j="8">
+0.88570523</Weight>
+<Weight i="12" j="9">
+1.5580137</Weight>
+<Weight i="12" j="10">
+1.4080691</Weight>
+<Weight i="12" j="11">
+-0.99512696</Weight>
+<Weight i="12" j="12">
+-0.6047066</Weight>
+<Weight i="12" j="13">
+-0.17600143</Weight>
+<Weight i="12" j="14">
+0.7333404</Weight>
+<Weight i="12" j="15">
+0.8161187</Weight>
+<Weight i="12" j="16">
+1.2310534</Weight>
+<Weight i="12" j="17">
+0.9676032</Weight>
+<Weight i="12" j="18">
+0.99393153</Weight>
+<Weight i="13" j="0">
+0.80543244</Weight>
+<Weight i="13" j="1">
+0.23892045</Weight>
+<Weight i="13" j="2">
+0.124669194</Weight>
+<Weight i="13" j="3">
+1.6023166</Weight>
+<Weight i="13" j="4">
+1.1765094</Weight>
+<Weight i="13" j="5">
+0.79396474</Weight>
+<Weight i="13" j="6">
+1.0525906</Weight>
+<Weight i="13" j="7">
+1.0102322</Weight>
+<Weight i="13" j="8">
+-0.89967483</Weight>
+<Weight i="13" j="9">
+0.91108537</Weight>
+<Weight i="13" j="10">
+1.8365834</Weight>
+<Weight i="13" j="11">
+-0.8215925</Weight>
+<Weight i="13" j="12">
+0.52815366</Weight>
+<Weight i="13" j="13">
+-0.8174653</Weight>
+<Weight i="13" j="14">
+-0.5013704</Weight>
+<Weight i="13" j="15">
+1.7306497</Weight>
+<Weight i="13" j="16">
+-0.8826106</Weight>
+<Weight i="13" j="17">
+0.78209865</Weight>
+<Weight i="13" j="18">
+0.92689395</Weight>
+<Weight i="14" j="0">
+1.9033751</Weight>
+<Weight i="14" j="1">
+0.42749918</Weight>
+<Weight i="14" j="2">
+0.6628412</Weight>
+<Weight i="14" j="3">
+-0.54089504</Weight>
+<Weight i="14" j="4">
+1.4543476</Weight>
+<Weight i="14" j="5">
+-0.34769768</Weight>
+<Weight i="14" j="6">
+-0.02917087</Weight>
+<Weight i="14" j="7">
+0.84799314</Weight>
+<Weight i="14" j="8">
+0.73841023</Weight>
+<Weight i="14" j="9">
+0.7963791</Weight>
+<Weight i="14" j="10">
+1.2441452</Weight>
+<Weight i="14" j="11">
+0.7174182</Weight>
+<Weight i="14" j="12">
+-0.06898987</Weight>
+<Weight i="14" j="13">
+1.4732826</Weight>
+<Weight i="14" j="14">
+1.3541236</Weight>
+<Weight i="14" j="15">
+1.3008902</Weight>
+<Weight i="14" j="16">
+1.6492355</Weight>
+<Weight i="14" j="17">
+1.2249548</Weight>
+<Weight i="14" j="18">
+1.50139</Weight>
+<Weight i="15" j="0">
+1.7349975</Weight>
+<Weight i="15" j="1">
+-0.60366213</Weight>
+<Weight i="15" j="2">
+0.15152025</Weight>
+<Weight i="15" j="3">
+1.669899</Weight>
+<Weight i="15" j="4">
+0.42833066</Weight>
+<Weight i="15" j="5">
+1.2256558</Weight>
+<Weight i="15" j="6">
+-0.26195103</Weight>
+<Weight i="15" j="7">
+0.42442644</Weight>
+<Weight i="15" j="8">
+-0.58615553</Weight>
+<Weight i="15" j="9">
+1.154413</Weight>
+<Weight i="15" j="10">
+-0.38866377</Weight>
+<Weight i="15" j="11">
+0.6654997</Weight>
+<Weight i="15" j="12">
+0.30802608</Weight>
+<Weight i="15" j="13">
+-0.72169185</Weight>
+<Weight i="15" j="14">
+0.64091015</Weight>
+<Weight i="15" j="15">
+0.27776456</Weight>
+<Weight i="15" j="16">
+-0.9159621</Weight>
+<Weight i="15" j="17">
+-0.8074864</Weight>
+<Weight i="15" j="18">
+0.033147573</Weight>
+<Weight i="16" j="0">
+-0.60428905</Weight>
+<Weight i="16" j="1">
+1.5717721</Weight>
+<Weight i="16" j="2">
+-0.7262391</Weight>
+<Weight i="16" j="3">
+-0.52968127</Weight>
+<Weight i="16" j="4">
+1.1032019</Weight>
+<Weight i="16" j="5">
+0.47792792</Weight>
+<Weight i="16" j="6">
+1.1827292</Weight>
+<Weight i="16" j="7">
+1.135813</Weight>
+<Weight i="16" j="8">
+1.5060191</Weight>
+<Weight i="16" j="9">
+0.09625316</Weight>
+<Weight i="16" j="10">
+-0.5700889</Weight>
+<Weight i="16" j="11">
+-0.28647143</Weight>
+<Weight i="16" j="12">
+1.8971324</Weight>
+<Weight i="16" j="13">
+-0.10844535</Weight>
+<Weight i="16" j="14">
+1.1368403</Weight>
+<Weight i="16" j="15">
+0.53739643</Weight>
+<Weight i="16" j="16">
+1.0297279</Weight>
+<Weight i="16" j="17">
+0.17604756</Weight>
+<Weight i="16" j="18">
+0.38496733</Weight>
+<Weight i="17" j="0">
+-0.66640866</Weight>
+<Weight i="17" j="1">
+1.401856</Weight>
+<Weight i="17" j="2">
+-0.7484966</Weight>
+<Weight i="17" j="3">
+1.3891292</Weight>
+<Weight i="17" j="4">
+1.9293323</Weight>
+<Weight i="17" j="5">
+-0.58570063</Weight>
+<Weight i="17" j="6">
+1.8510311</Weight>
+<Weight i="17" j="7">
+1.1071651</Weight>
+<Weight i="17" j="8">
+1.5595331</Weight>
+<Weight i="17" j="9">
+0.30447483</Weight>
+<Weight i="17" j="10">
+0.34525466</Weight>
+<Weight i="17" j="11">
+-0.8834598</Weight>
+<Weight i="17" j="12">
+-0.29224336</Weight>
+<Weight i="17" j="13">
+-0.67167115</Weight>
+<Weight i="17" j="14">
+-0.11132121</Weight>
+<Weight i="17" j="15">
+0.26963782</Weight>
+<Weight i="17" j="16">
+0.12033987</Weight>
+<Weight i="17" j="17">
+0.36405134</Weight>
+<Weight i="17" j="18">
+-0.35422295</Weight>
+</Layer>
+<Layer cols="19" no="3" rows="6">
+<Weight i="0" j="0">
+1.0378768</Weight>
+<Weight i="0" j="1">
+-0.20472538</Weight>
+<Weight i="0" j="2">
+1.4666338</Weight>
+<Weight i="0" j="3">
+-0.5539209</Weight>
+<Weight i="0" j="4">
+0.8161713</Weight>
+<Weight i="0" j="5">
+-0.14239496</Weight>
+<Weight i="0" j="6">
+0.33041477</Weight>
+<Weight i="0" j="7">
+-0.8793637</Weight>
+<Weight i="0" j="8">
+1.4444904</Weight>
+<Weight i="0" j="9">
+0.78149414</Weight>
+<Weight i="0" j="10">
+0.18904924</Weight>
+<Weight i="0" j="11">
+0.3091222</Weight>
+<Weight i="0" j="12">
+-0.40813857</Weight>
+<Weight i="0" j="13">
+0.7105074</Weight>
+<Weight i="0" j="14">
+0.43543792</Weight>
+<Weight i="0" j="15">
+1.3366079</Weight>
+<Weight i="0" j="16">
+1.8139877</Weight>
+<Weight i="0" j="17">
+1.3121336</Weight>
+<Weight i="0" j="18">
+-0.93339056</Weight>
+<Weight i="1" j="0">
+-0.6995252</Weight>
+<Weight i="1" j="1">
+1.633812</Weight>
+<Weight i="1" j="2">
+-0.8067742</Weight>
+<Weight i="1" j="3">
+-0.8187574</Weight>
+<Weight i="1" j="4">
+0.5453733</Weight>
+<Weight i="1" j="5">
+-0.30376828</Weight>
+<Weight i="1" j="6">
+1.0252008</Weight>
+<Weight i="1" j="7">
+1.929179</Weight>
+<Weight i="1" j="8">
+-0.4717121</Weight>
+<Weight i="1" j="9">
+0.9206717</Weight>
+<Weight i="1" j="10">
+0.102751255</Weight>
+<Weight i="1" j="11">
+1.5439136</Weight>
+<Weight i="1" j="12">
+0.62107015</Weight>
+<Weight i="1" j="13">
+-0.28313047</Weight>
+<Weight i="1" j="14">
+0.77330184</Weight>
+<Weight i="1" j="15">
+1.2026391</Weight>
+<Weight i="1" j="16">
+-0.11308664</Weight>
+<Weight i="1" j="17">
+-0.26698428</Weight>
+<Weight i="1" j="18">
+-0.06042826</Weight>
+<Weight i="2" j="0">
+1.582303</Weight>
+<Weight i="2" j="1">
+-0.7273118</Weight>
+<Weight i="2" j="2">
+0.19689</Weight>
+<Weight i="2" j="3">
+1.7881076</Weight>
+<Weight i="2" j="4">
+-0.9653287</Weight>
+<Weight i="2" j="5">
+1.1305783</Weight>
+<Weight i="2" j="6">
+-0.9031569</Weight>
+<Weight i="2" j="7">
+-0.2973544</Weight>
+<Weight i="2" j="8">
+0.5572344</Weight>
+<Weight i="2" j="9">
+1.5841484</Weight>
+<Weight i="2" j="10">
+-0.04368162</Weight>
+<Weight i="2" j="11">
+0.891531</Weight>
+<Weight i="2" j="12">
+1.420069</Weight>
+<Weight i="2" j="13">
+1.6319742</Weight>
+<Weight i="2" j="14">
+0.8144139</Weight>
+<Weight i="2" j="15">
+1.4968338</Weight>
+<Weight i="2" j="16">
+0.6209457</Weight>
+<Weight i="2" j="17">
+0.0928514</Weight>
+<Weight i="2" j="18">
+1.9090343</Weight>
+<Weight i="3" j="0">
+-0.58728725</Weight>
+<Weight i="3" j="1">
+1.3229947</Weight>
+<Weight i="3" j="2">
+1.7346497</Weight>
+<Weight i="3" j="3">
+1.1404505</Weight>
+<Weight i="3" j="4">
+-0.32856262</Weight>
+<Weight i="3" j="5">
+1.7920167</Weight>
+<Weight i="3" j="6">
+1.3273902</Weight>
+<Weight i="3" j="7">
+1.1813357</Weight>
+<Weight i="3" j="8">
+0.20624304</Weight>
+<Weight i="3" j="9">
+1.0200462</Weight>
+<Weight i="3" j="10">
+0.98461187</Weight>
+<Weight i="3" j="11">
+0.66678095</Weight>
+<Weight i="3" j="12">
+0.5967655</Weight>
+<Weight i="3" j="13">
+-0.55172044</Weight>
+<Weight i="3" j="14">
+1.7283764</Weight>
+<Weight i="3" j="15">
+-0.6154467</Weight>
+<Weight i="3" j="16">
+0.621709</Weight>
+<Weight i="3" j="17">
+0.7051902</Weight>
+<Weight i="3" j="18">
+1.1097918</Weight>
+<Weight i="4" j="0">
+0.13784838</Weight>
+<Weight i="4" j="1">
+0.6701155</Weight>
+<Weight i="4" j="2">
+0.9222745</Weight>
+<Weight i="4" j="3">
+-0.38120365</Weight>
+<Weight i="4" j="4">
+0.07302773</Weight>
+<Weight i="4" j="5">
+-0.49591798</Weight>
+<Weight i="4" j="6">
+0.57071257</Weight>
+<Weight i="4" j="7">
+1.4710469</Weight>
+<Weight i="4" j="8">
+1.9179788</Weight>
+<Weight i="4" j="9">
+1.7970579</Weight>
+<Weight i="4" j="10">
+-0.70179486</Weight>
+<Weight i="4" j="11">
+1.2660835</Weight>
+<Weight i="4" j="12">
+-0.4027164</Weight>
+<Weight i="4" j="13">
+0.8291364</Weight>
+<Weight i="4" j="14">
+1.1382184</Weight>
+<Weight i="4" j="15">
+0.07132757</Weight>
+<Weight i="4" j="16">
+1.9527082</Weight>
+<Weight i="4" j="17">
+1.2340646</Weight>
+<Weight i="4" j="18">
+-0.23713934</Weight>
+<Weight i="5" j="0">
+-0.55443394</Weight>
+<Weight i="5" j="1">
+0.23931456</Weight>
+<Weight i="5" j="2">
+1.1408334</Weight>
+<Weight i="5" j="3">
+-0.8398417</Weight>
+<Weight i="5" j="4">
+-0.031943023</Weight>
+<Weight i="5" j="5">
+0.6117492</Weight>
+<Weight i="5" j="6">
+-0.8218321</Weight>
+<Weight i="5" j="7">
+-0.49324793</Weight>
+<Weight i="5" j="8">
+-0.1738258</Weight>
+<Weight i="5" j="9">
+1.8073192</Weight>
+<Weight i="5" j="10">
+1.9405732</Weight>
+<Weight i="5" j="11">
+1.0897543</Weight>
+<Weight i="5" j="12">
+0.13769543</Weight>
+<Weight i="5" j="13">
+1.7796714</Weight>
+<Weight i="5" j="14">
+-0.34235686</Weight>
+<Weight i="5" j="15">
+0.84680915</Weight>
+<Weight i="5" j="16">
+-0.6992677</Weight>
+<Weight i="5" j="17">
+-0.26581824</Weight>
+<Weight i="5" j="18">
+-0.6572666</Weight>
+</Layer>
+</Brain>
+<Food>
+<Pos no="0" posx="1.0" posy="1.0" posz="1.0"/>
+<Pos no="1" posx="24.0" posy="1.0" posz="1.0"/>
+<Pos no="2" posx="1.0" posy="24.0" posz="1.0"/>
+<Pos no="3" posx="1.0" posy="1.0" posz="24.0"/>
+
+<Pos no="4" posx="24.0" posy="1.0" posz="24.0"/>
+<Pos no="5" posx="24.0" posy="24.0" posz="1.0"/>
+<Pos no="6" posx="1.0" posy="24.0" posz="24.0"/>
+<Pos no="7" posx="24.0" posy="24.0" posz="24.0"/>
+</Food>
+</Snake>
+</NeuralNet>
